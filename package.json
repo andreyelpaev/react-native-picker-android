@@ -22,6 +22,9 @@
   "engines": {
     "node": ">=4"
   },
+  "dependencies": {
+    "prop-types": "^15.5.7"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/beefe/react-native-picker-android/issues"
